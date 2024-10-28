@@ -63,14 +63,19 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
+#### Dataset
 ![image](https://github.com/user-attachments/assets/ad48d1d5-a1a8-41a5-b4f3-c6613ce088e2)
 
+#### X
 ![image](https://github.com/user-attachments/assets/8fd46ea2-79e3-48a6-9d98-0ef67c7c7e32)
 
+#### Y
 ![image](https://github.com/user-attachments/assets/b4286698-cbd8-4925-b33b-61192178cb6b)
 
+#### X1_Scaled
 ![image](https://github.com/user-attachments/assets/6522a8da-3eea-4f15-9961-c65aadcc5853)
 
+#### 
 ![image](https://github.com/user-attachments/assets/c3b159b8-3ac9-4922-a7b4-8c3742d4c055)
 
 ## Result:
