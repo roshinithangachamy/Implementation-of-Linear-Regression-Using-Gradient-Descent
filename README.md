@@ -72,10 +72,10 @@ print(f"Predicted value: {pre}")
 #### Y
 ![image](https://github.com/user-attachments/assets/b4286698-cbd8-4925-b33b-61192178cb6b)
 
-#### X1_Scaled
+#### Scaled values
 ![image](https://github.com/user-attachments/assets/6522a8da-3eea-4f15-9961-c65aadcc5853)
 
-#### 
+#### Predicted value
 ![image](https://github.com/user-attachments/assets/c3b159b8-3ac9-4922-a7b4-8c3742d4c055)
 
 ## Result:
