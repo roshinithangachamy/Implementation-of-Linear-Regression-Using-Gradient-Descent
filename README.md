@@ -66,13 +66,13 @@ print(f"Predicted value: {pre}")
 ![image](https://github.com/user-attachments/assets/ad48d1d5-a1a8-41a5-b4f3-c6613ce088e2)
 
 #### X
-![image](https://github.com/user-attachments/assets/8fd46ea2-79e3-48a6-9d98-0ef67c7c7e32)
+![326158720-9bf60fa0-af77-42cf-a31d-ea158d181abb](https://github.com/user-attachments/assets/7650568c-1516-4917-a9b9-f5d93635b967)
 
 #### Y
-![image](https://github.com/user-attachments/assets/b4286698-cbd8-4925-b33b-61192178cb6b)
+![326158727-3be61adc-d7e3-4d8c-97b4-3e0ac9547133](https://github.com/user-attachments/assets/615fe446-ddef-4f0c-92b0-884ebe1e7e80)
 
 #### Scaled values
-![image](https://github.com/user-attachments/assets/6522a8da-3eea-4f15-9961-c65aadcc5853)
+![326158733-c0b84bd5-3d9e-45f2-8f24-7908acecff74](https://github.com/user-attachments/assets/5c4efc93-7e6b-4118-8b15-2d839a13f6f7)
 
 #### Predicted value
 ![image](https://github.com/user-attachments/assets/c3b159b8-3ac9-4922-a7b4-8c3742d4c055)
